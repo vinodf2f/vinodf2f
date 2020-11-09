@@ -48,7 +48,6 @@
 [<img src = "https://img.shields.io/badge/vinod_y_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/vinod_y_/)
 
 
-<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/__j_e_e_l__) -->
 
 
 
