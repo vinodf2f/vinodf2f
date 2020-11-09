@@ -9,7 +9,7 @@
 
 - I enjoy reading and refactoring code.
 
-- Super excited to learn new tools. Currently learning flutter.
+- Super excited to learn new tools. Currently learning flutter 💙.
 
 - Need help with your problem, ping me.
 
