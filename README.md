@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--  I am full stack Javascript/Typescript engineer  🌻.
+-  I am a full stack Javascript/Typescript engineer  🌻.
 
 - Currently making hybrid mobile apps while writing beautiful code in Javascript(ES6) /Typescript using React Native.
 
