@@ -3,13 +3,11 @@
 
 -  I am a full stack Javascript/Typescript engineer  🌻.
 
-- Currently making hybrid mobile apps while writing beautiful code in Javascript(ES6) /Typescript using React Native.
+-  I enjoy reading, writing and refactoring code.
 
 - Have experience with ReactJs/Redux, GraphQL, Node, Firebase.
 
-- I enjoy reading and refactoring code.
-
-- Super excited to learn new tools.
+- Write solutions for mobile-app, web-app, cli-tools, Desktop-app
 
 - Need help with your problem, ping me.
 
