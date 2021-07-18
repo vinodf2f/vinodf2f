@@ -5,7 +5,7 @@
 
 -  I enjoy reading, writing and refactoring code.
 
-- Have experience with ReactJs/Redux, GraphQL, Node, Firebase.
+- Have experience with React-Native ReactJs/Redux, GraphQL, Node, Firebase.
 
 - Write solutions for mobile-app, web-app, cli-tools, Desktop-app
 
