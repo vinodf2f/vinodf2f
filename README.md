@@ -9,9 +9,6 @@
 
 - Write solutions for mobile-app, web-app, cli-tools, Desktop-app
 
-- Need help with your problem, ping me.
-
-
 
 
 ### 🛠️ Languages and Tools:
@@ -47,9 +44,6 @@
 
 
 
-
-
-## AlwaysBeKind 
 
 
 
