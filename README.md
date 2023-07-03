@@ -1,33 +1,25 @@
 ### Hi there 👋
 
 
--  I am a full stack Javascript/Typescript engineer  🌻.
+- I am Vinod, A frontend developer with 4+ years of experience working from Bangalore, India. I hold a Bachelor of Engineering degree in Information Technology. I enjoy learning by building projects and have experience working with JavaScript apps, including React.js, React Native, and Next.js, Typescript
 
--  I enjoy reading, writing and refactoring code.
-
-- Have experience with React-Native ReactJs/Redux, GraphQL, Node, Firebase.
-
-- Write solutions for mobile-app, web-app, cli-tools, Desktop-app
+ - Skilled in creating dynamic, interactive boxes for seamless user experiences across platforms leveraging modern technologies and frameworks to develop impactful solutions that drive business growth. When I am not wirting logic, I travel and explore new places.
 
 
 
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React_Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
 
