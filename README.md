@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- I am Vinod, A frontend developer with 4+ years of experience working from Bangalore, India. I hold a Bachelor of Engineering degree in Information Technology. I enjoy learning by building projects and have experience working with JavaScript apps, including React.js, React Native, and Next.js, Typescript
+- I am Vinod, A frontend developer with 5+ years of experience working from Dubai,UAE. I hold a Bachelor of Engineering degree in Information Technology. I enjoy learning by building projects and have experience working with JavaScript apps, including React.js, React Native, and Next.js, Typescript
 
- - Skilled in creating dynamic, interactive boxes for seamless user experiences across platforms leveraging modern technologies and frameworks to develop impactful solutions that drive business growth. When I am not wirting logic, I travel and explore new places.
+ - Skilled in creating dynamic, interactive boxes for seamless user experiences across platforms leveraging modern technologies and frameworks to develop impactful solutions that drive business growth. When I am not wirting logic, I travel and explore new places. Know more about me [here](https://vinodyevatikar.live/)
+
 
 
 
